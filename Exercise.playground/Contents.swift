@@ -23,7 +23,6 @@ Instead of connecting to a remote API, we are providing this data in form of JSO
 */
 
 import Foundation
-import _Concurrency
 
 /*:
 1. First, start by modeling the data objects that will be used.
